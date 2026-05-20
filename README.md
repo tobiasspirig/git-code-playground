@@ -16,9 +16,3 @@ This repository includes examples and mini-projects using:
 - 📦 **Modules & Packages** – organizing Python code effectively
 
 ---
-
-## 🚀 Clone the repository
-
-   ```bash
-   git clone https://github.com/your-username/python-playground.git
-   cd python-playground
